@@ -11,7 +11,14 @@ Is this?
 
 ![Image of Banana](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG7ElBNPs-HbYJJOMHRu7lEmphTn8-52FYKw&s)
 
-'''
+```
 Code!
-'''
-### Inline `Code`
+```
+``` Python
+variable = 3
+```
+
+``` chsarp
+if (var == 2) {Console.WriteLine("Code!");}
+```
+Inline `code`!
