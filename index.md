@@ -10,3 +10,8 @@ Is this?
 ## No :(
 
 ![Image of Banana](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG7ElBNPs-HbYJJOMHRu7lEmphTn8-52FYKw&s)
+
+'''
+Code!
+'''
+### Inline `Code`
