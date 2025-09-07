@@ -22,3 +22,8 @@ variable = 3
 if (var == 2) {Console.WriteLine("Code!");}
 ```
 Inline `code`!
+
+- [x] Learn C#
+- [x] Use WPF
+- [ ] gain admin
+
